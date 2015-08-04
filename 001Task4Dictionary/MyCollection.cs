@@ -29,16 +29,6 @@ namespace _001Task4Dictionary
             set { _elements[index].UkrTranslation = value;  }
         }
 
-        public string GetEngTranslation(int index)
-        {
-            if (index <= _elements.Length)
-            {
-                return _elements[index].EngTranslation;
-            } 
-
-            throw new Exception();
-        }
-
         public IEnumerator<T> GetEnumerator()
         {
             foreach (var element in _elements)
