@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\bin\Debug\001Task4Dictionary.exe.config
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\obj\Debug\001Task4Dictionary.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\bin\Debug\001Task4Dictionary.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\bin\Debug\001Task4Dictionary.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\obj\Debug\001Task4Dictionary.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\obj\Debug\001Task4Dictionary.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\bin\Debug\001Task4Dictionary.exe.CodeAnalysisLog.xml
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task4Dictionary\bin\Debug\001Task4Dictionary.exe.lastcodeanalysissucceeded

@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\obj\Debug\001Task2Months.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\bin\Debug\001Task2Months.exe.config
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\bin\Debug\001Task2Months.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\bin\Debug\001Task2Months.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\obj\Debug\001Task2Months.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\obj\Debug\001Task2Months.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\bin\Debug\001Task2Months.exe.CodeAnalysisLog.xml
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task2Months\bin\Debug\001Task2Months.exe.lastcodeanalysissucceeded

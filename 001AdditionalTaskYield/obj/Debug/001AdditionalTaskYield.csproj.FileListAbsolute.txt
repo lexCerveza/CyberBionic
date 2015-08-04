@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe.config
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.pdb

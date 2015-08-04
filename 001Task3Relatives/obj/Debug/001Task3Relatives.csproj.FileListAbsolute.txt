@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\bin\Debug\001Task3Relatives.exe.config
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\bin\Debug\001Task3Relatives.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\bin\Debug\001Task3Relatives.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\obj\Debug\001Task3Relatives.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\obj\Debug\001Task3Relatives.exe
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\obj\Debug\001Task3Relatives.pdb
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\bin\Debug\001Task3Relatives.exe.CodeAnalysisLog.xml
+c:\users\user\documents\visual studio 2013\Projects\001AdditionalTaskYield\001Task3Relatives\bin\Debug\001Task3Relatives.exe.lastcodeanalysissucceeded
