@@ -1,6 +1,5 @@
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002AdditionalTaskSortedList\bin\Debug\002AdditionalTaskSortedList.exe.config
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002AdditionalTaskSortedList\bin\Debug\002AdditionalTaskSortedList.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002AdditionalTaskSortedList\bin\Debug\002AdditionalTaskSortedList.pdb
-C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002AdditionalTaskSortedList\obj\Debug\002AdditionalTaskSortedList.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002AdditionalTaskSortedList\obj\Debug\002AdditionalTaskSortedList.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002AdditionalTaskSortedList\obj\Debug\002AdditionalTaskSortedList.pdb

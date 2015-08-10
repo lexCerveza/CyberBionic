@@ -8,11 +8,13 @@ namespace _002AdditionalTaskSortedList
     {
         static void Main()
         {
-            var bands = new SortedList<string, string>();
-            bands["Onyx"] = "Hip-Hop";
-            bands["Jacksons 5"] = "Pop";
-            bands["Van Halen"] = "Hard Rock";
-            bands["Boney M"] = "Disco";
+            var bands = new SortedList<string, string>()
+            {
+                {"Onyx", "Hip-Hop"},
+                {"Jacksons 5", "Pop"},
+                {"Van Halen", "Hard Rock"},
+                {"Boney M", "Disco"}
+            };
 
             foreach (var band in bands)
             {
@@ -20,11 +22,13 @@ namespace _002AdditionalTaskSortedList
             }
             Console.WriteLine("----------------------------");
 
-            bands = new SortedList<string, string>(new MyComparerDescending());
-            bands["Onyx"] = "Hip-Hop";
-            bands["Jacksons 5"] = "Pop";
-            bands["Van Halen"] = "Hard Rock";
-            bands["Boney M"] = "Disco";
+            bands = new SortedList<string, string>(new MyComparerDescending())
+            {
+                {"Onyx", "Hip-Hop"},
+                {"Jacksons 5", "Pop"},
+                {"Van Halen", "Hard Rock"},
+                {"Boney M", "Disco"}
+            };
 
             foreach (var band in bands)
             {
@@ -39,7 +43,7 @@ namespace _002AdditionalTaskSortedList
     {
         public int Compare(string x, string y)
         {
-            return y[0] - x[0];
+            return Comparer<string>.Default.Compare(y, x);
         }
     }
 }

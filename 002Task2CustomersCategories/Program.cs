@@ -7,16 +7,24 @@ namespace _002Task2CustomersCategories
     {
         static void Main()
         {
-            var customerCategoryDict = new Dictionary<string, int>()
+            var stan = new Customer(1, "Stan");
+            var eric = new Customer(2, "Eric");
+            var kyle = new Customer(3, "Kyle");
+            var kenny = new Customer(4, "Kenny");
+
+            var customerCategoryDict = new Dictionary<Customer, int>()
             {
-                {"Stan", 1},
-                {"Eric", 1},
-                {"Kyle", 2},
-                {"Kenny", 3}
+                {stan, 1},
+                {eric, 1},
+                {kyle, 1},
+                {kenny, 1},
             };
 
-            Console.WriteLine(customerCategoryDict["Stan"]);
-            foreach (var customer in customerCategoryDict.GetCustomersByCategory(2))
+            stan.Equals(new Customer(1, "Butters"));
+
+            Console.WriteLine(customerCategoryDict[stan]);
+            Console.WriteLine(customerCategoryDict[new Customer(1, "Stan")]);
+            foreach (var customer in customerCategoryDict.GetCustomersByCategory(1))
             {
                 Console.WriteLine(customer);
             }
@@ -24,7 +32,7 @@ namespace _002Task2CustomersCategories
             Console.Read();
         }
 
-        public static IEnumerable<string> GetCustomersByCategory(this Dictionary<string, int> dictionary, int category)
+        public static IEnumerable<Customer> GetCustomersByCategory(this Dictionary<Customer, int> dictionary, int category)
         {
             foreach (var record in dictionary)
             {
