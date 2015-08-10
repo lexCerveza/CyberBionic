@@ -1,0 +1,5 @@
+C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.exe.config
+C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.pdb
+C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Task2FileCreateRead\obj\Debug\003Task2FileCreateRead.exe
+C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Task2FileCreateRead\obj\Debug\003Task2FileCreateRead.pdb
