@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003Task2FileCreateRead", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003Task3TextWindowFileViewerAndCompression", "003Task3TextWindowFileViewerAndCompression\003Task3TextWindowFileViewerAndCompression.csproj", "{AC260E0E-297B-400A-9CA7-F00E60A1CA90}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003Task4WPFIsolatedStorage", "003Task4WPFIsolatedStorage\003Task4WPFIsolatedStorage.csproj", "{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{AC260E0E-297B-400A-9CA7-F00E60A1CA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC260E0E-297B-400A-9CA7-F00E60A1CA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC260E0E-297B-400A-9CA7-F00E60A1CA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

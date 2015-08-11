@@ -4,6 +4,7 @@
         Title="MainWindow" Height="350" Width="525" ResizeMode="NoResize">
     <Grid>
         <TextBlock TextWrapping="Wrap"
+                   Padding="16"
                    Loaded="FrameworkElement_OnLoaded">
             
         </TextBlock>
