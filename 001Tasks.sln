@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003Task3TextWindowFileViewe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003Task4WPFIsolatedStorage", "003Task4WPFIsolatedStorage\003Task4WPFIsolatedStorage.csproj", "{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004AdditionalTaskLoginPassword", "004AdditionalTaskLoginPassword\004AdditionalTaskLoginPassword.csproj", "{A59FA6CB-DB19-493D-9908-407436F4F6FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58B31BAA-B407-463F-9CC9-ADC32A6F0F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59FA6CB-DB19-493D-9908-407436F4F6FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59FA6CB-DB19-493D-9908-407436F4F6FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59FA6CB-DB19-493D-9908-407436F4F6FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59FA6CB-DB19-493D-9908-407436F4F6FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
