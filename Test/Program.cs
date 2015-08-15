@@ -8,13 +8,15 @@ namespace Test
     {
         static void Main()
         {
-            IsolatedStorageFile isolatedStorage = IsolatedStorageFile.GetMachineStoreForAssembly();
-
-            IsolatedStorageFileStream file = new IsolatedStorageFileStream("UserSettings.set", FileMode.Create, isolatedStorage);
-
-            var streamWriter = new StreamWriter(file);
-            streamWriter.WriteLine("User Settings");
-            streamWriter.Close();
+            using (var isolatedStorage = IsolatedStorageFile.GetMachineStoreForAssembly())
+            {
+                foreach (var dir in isolatedStorage.GetFileNames())
+                {
+                    Console.WriteLine(dir);
+                }
+                
+                Console.Read();
+            }
         }
     }
 }

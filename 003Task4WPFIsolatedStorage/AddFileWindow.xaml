@@ -1,0 +1,31 @@
+﻿<Window x:Class="_003Task4WPFIsolatedStorage.AddFileWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_003Task4WPFIsolatedStorage"
+        mc:Ignorable="d"
+        Height="200" Width="300" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.33*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="3*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <TextBox Name="tb_fileName" Grid.Column="0"  Margin="10">
+            </TextBox>
+
+            <Button Name = "btn_create" Grid.Column="1" Margin="10" Content="Create" Click="btn_create_Click">
+            </Button>
+        </Grid>
+
+        <TextBox Name="tb_fileContents" Grid.Row="1" Margin="10">
+        </TextBox>
+    </Grid>
+</Window>

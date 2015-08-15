@@ -12,3 +12,6 @@ C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorag
 C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorage\obj\Debug\003Task4WPFIsolatedStorage.csproj.GenerateResource.Cache
 C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorage\obj\Debug\003Task4WPFIsolatedStorage.exe
 C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorage\obj\Debug\003Task4WPFIsolatedStorage.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorage\obj\Debug\AddFileWindow.g.cs
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorage\obj\Debug\003Task4WPFIsolatedStorage_MarkupCompile.lref
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task4WPFIsolatedStorage\obj\Debug\AddFileWindow.baml
