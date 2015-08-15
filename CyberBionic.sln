@@ -43,8 +43,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task3TelephonesOnly", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task4ConfigurationFileOrRegistry", "005Task4ConfigurationFileOrRegistry\005Task4ConfigurationFileOrRegistry.csproj", "{900FD8F1-DE2A-440E-A95E-8041097A17C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{3A64E096-310B-45E5-8452-E9D33C196D08}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,10 +129,6 @@ Global
 		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3A64E096-310B-45E5-8452-E9D33C196D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3A64E096-310B-45E5-8452-E9D33C196D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3A64E096-310B-45E5-8452-E9D33C196D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3A64E096-310B-45E5-8452-E9D33C196D08}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
