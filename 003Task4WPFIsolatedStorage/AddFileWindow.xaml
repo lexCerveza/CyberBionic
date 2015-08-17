@@ -18,14 +18,14 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <TextBox Name="tb_fileName" Grid.Column="0"  Margin="10">
+            <TextBox Name="TbFileName" Grid.Column="0"  Margin="10">
             </TextBox>
 
-            <Button Name = "btn_create" Grid.Column="1" Margin="10" Content="Create" Click="btn_create_Click">
+            <Button Name = "BtnCreate" Grid.Column="1" Margin="10" Content="Create" Click="btn_create_Click">
             </Button>
         </Grid>
 
-        <TextBox Name="tb_fileContents" Grid.Row="1" Margin="10">
+        <TextBox Name="TbFileContents" Grid.Row="1" Margin="10">
         </TextBox>
     </Grid>
 </Window>

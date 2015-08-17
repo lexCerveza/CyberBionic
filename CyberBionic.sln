@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001AdditionalTaskYield", "001AdditionalTaskYield\001AdditionalTaskYield.csproj", "{B9DE74F2-F36D-4E86-BA5A-A1D6C468F544}"
 EndProject
@@ -41,7 +41,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task2XmlDocInfo", "005Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task3TelephonesOnly", "005Task3TelephonesOnly\005Task3TelephonesOnly.csproj", "{9A86F4A9-8D90-45E5-BA81-3181911B51E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task4ConfigurationFileOrRegistry", "005Task4ConfigurationFileOrRegistry\005Task4ConfigurationFileOrRegistry.csproj", "{900FD8F1-DE2A-440E-A95E-8041097A17C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task4Admin", "005Task4Admin\005Task4Admin.csproj", "{32FA21D9-EBC5-4AE4-B80F-B0059E3C6781}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005Task4Client", "005Task4Client\005Task4Client.csproj", "{67F747A5-5050-478E-BC3E-AC49A49D540D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,10 +127,14 @@ Global
 		{9A86F4A9-8D90-45E5-BA81-3181911B51E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A86F4A9-8D90-45E5-BA81-3181911B51E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A86F4A9-8D90-45E5-BA81-3181911B51E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{900FD8F1-DE2A-440E-A95E-8041097A17C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FA21D9-EBC5-4AE4-B80F-B0059E3C6781}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FA21D9-EBC5-4AE4-B80F-B0059E3C6781}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FA21D9-EBC5-4AE4-B80F-B0059E3C6781}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FA21D9-EBC5-4AE4-B80F-B0059E3C6781}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67F747A5-5050-478E-BC3E-AC49A49D540D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F747A5-5050-478E-BC3E-AC49A49D540D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F747A5-5050-478E-BC3E-AC49A49D540D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F747A5-5050-478E-BC3E-AC49A49D540D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

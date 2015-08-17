@@ -15,7 +15,7 @@ namespace _003Task4WPFIsolatedStorage
             InitializeComponent();
         }
 
-        private void BtnCreate_OnClick(object sender, RoutedEventArgs e)
+        private void btn_create_Click(object sender, RoutedEventArgs e)
         {
             if (TbFileName.Text == String.Empty)
             {
