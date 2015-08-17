@@ -1,0 +1,14 @@
+﻿<Window x:Class="AdminSide.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Admin" Height="210" Width="500" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <StackPanel>
+            <Label Margin="10, 0, 10, 0">Number of buttons</Label>
+            <TextBox Name="ButtonNumberTextBox" Margin="10, 10, 10, 0"></TextBox>
+            <Label Margin="10, 10, 10, 0">Text</Label>
+            <TextBox Name="TextTextBox" Margin="10, 10, 10, 0"></TextBox>
+            <Button Margin="10, 10, 10, 0" Click="ButtonBase_OnClick">Save Configuration</Button>
+        </StackPanel>
+    </Grid>
+</Window>
