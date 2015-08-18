@@ -10,3 +10,6 @@ C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\bin\Debug\005Task4Admin
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\bin\Debug\005Task4Admin.pdb
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.exe
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\005Task4Admin\bin\Debug\005Task4Admin.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.pdb

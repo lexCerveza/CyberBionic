@@ -4,3 +4,9 @@ C:\Users\user\Documents\GitHub\CyberBionic\004Task4Bills\bin\Debug\004Task4Bills
 C:\Users\user\Documents\GitHub\CyberBionic\004Task4Bills\obj\Debug\004Task4Bills.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\CyberBionic\004Task4Bills\obj\Debug\004Task4Bills.exe
 C:\Users\user\Documents\GitHub\CyberBionic\004Task4Bills\obj\Debug\004Task4Bills.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\bin\Debug\004Task4Bills.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\obj\Debug\004Task4Bills.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\obj\Debug\004Task4Bills.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\bin\Debug\004Task4Bills.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\bin\Debug\004Task4Bills.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\obj\Debug\004Task4Bills.csprojResolveAssemblyReference.cache

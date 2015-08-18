@@ -9,7 +9,7 @@ namespace _004Task4Bills
     {
         static void Main()
         {
-            var fileContents = File.ReadAllText(@"C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task4Bills\bills.txt");
+            var fileContents = File.ReadAllText(@"bills.txt");
             var regex = new Regex(@"(?<name>\S*)\s*(?<price>\S*)\s*(?<currency>\S*)\.\s*(?<count>\d*)\s*(?<day>\d{1,2})\.(?<month>\d{1,2})\.(?<year>\d*)");
 
             for(Match m = regex.Match(fileContents); m.Success; m = m.NextMatch())

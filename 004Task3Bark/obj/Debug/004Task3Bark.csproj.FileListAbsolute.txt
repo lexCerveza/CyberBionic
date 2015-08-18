@@ -4,3 +4,6 @@ C:\Users\user\Documents\GitHub\CyberBionic\004Task3Bark\bin\Debug\004Task3Bark.p
 C:\Users\user\Documents\GitHub\CyberBionic\004Task3Bark\obj\Debug\004Task3Bark.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\CyberBionic\004Task3Bark\obj\Debug\004Task3Bark.exe
 C:\Users\user\Documents\GitHub\CyberBionic\004Task3Bark\obj\Debug\004Task3Bark.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task3Bark\bin\Debug\004Task3Bark.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task3Bark\obj\Debug\004Task3Bark.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task3Bark\obj\Debug\004Task3Bark.pdb

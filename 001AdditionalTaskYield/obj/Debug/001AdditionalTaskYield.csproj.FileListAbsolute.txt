@@ -10,3 +10,9 @@ C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\obj\Debug\001A
 C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe
 C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.pdb
 C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.csprojResolveAssemblyReference.cache

@@ -8,7 +8,7 @@ namespace _003AdditionalTaskCreateDirectories
         static void Main()
         {
             const int folderCount = 100;
-            const string dirName = @"C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003AdditionalTaskCreateDirectories\TestFolder";
+            const string dirName = @"TestFolder";
 
             if (Directory.Exists(dirName))
             {

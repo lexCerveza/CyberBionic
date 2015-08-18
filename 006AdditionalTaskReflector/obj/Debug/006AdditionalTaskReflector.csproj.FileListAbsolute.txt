@@ -11,3 +11,6 @@ C:\Users\user\Documents\GitHub\CyberBionic\006AdditionalTaskReflector\obj\Debug\
 C:\Users\user\Documents\GitHub\CyberBionic\006AdditionalTaskReflector\obj\Debug\006AdditionalTaskReflector.exe
 C:\Users\user\Documents\GitHub\CyberBionic\006AdditionalTaskReflector\obj\Debug\006AdditionalTaskReflector.pdb
 C:\Users\user\Documents\GitHub\CyberBionic\006AdditionalTaskReflector\obj\Debug\006AdditionalTaskReflector.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\006AdditionalTaskReflector\bin\Debug\006AdditionalTaskReflector.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\006AdditionalTaskReflector\obj\Debug\006AdditionalTaskReflector.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\006AdditionalTaskReflector\obj\Debug\006AdditionalTaskReflector.pdb

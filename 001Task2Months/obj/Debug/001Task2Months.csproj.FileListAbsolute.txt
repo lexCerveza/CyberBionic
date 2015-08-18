@@ -10,3 +10,9 @@ C:\Users\user\Documents\GitHub\CyberBionic\001Task2Months\bin\Debug\001Task2Mont
 C:\Users\user\Documents\GitHub\CyberBionic\001Task2Months\obj\Debug\001Task2Months.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\GitHub\CyberBionic\001Task2Months\obj\Debug\001Task2Months.exe
 C:\Users\user\Documents\GitHub\CyberBionic\001Task2Months\obj\Debug\001Task2Months.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001Task2Months\bin\Debug\001Task2Months.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001Task2Months\obj\Debug\001Task2Months.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001Task2Months\obj\Debug\001Task2Months.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001Task2Months\bin\Debug\001Task2Months.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001Task2Months\bin\Debug\001Task2Months.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\001Task2Months\obj\Debug\001Task2Months.csprojResolveAssemblyReference.cache

@@ -7,7 +7,7 @@ namespace _004Task3Bark
     {
         static void Main()
         {
-            var filePath = @"C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\004Task3Bark\input.txt";
+            var filePath = @"input.txt";
             var fileContents = File.ReadAllText(filePath);
             
             var barkContents = Regex.Replace(fileContents, @"with|on|until|in|under|behind|between", @"bark");

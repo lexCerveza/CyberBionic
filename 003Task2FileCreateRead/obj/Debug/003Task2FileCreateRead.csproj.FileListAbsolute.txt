@@ -8,3 +8,8 @@ C:\Users\user\Documents\GitHub\CyberBionic\003Task2FileCreateRead\bin\Debug\003T
 C:\Users\user\Documents\GitHub\CyberBionic\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.pdb
 C:\Users\user\Documents\GitHub\CyberBionic\003Task2FileCreateRead\obj\Debug\003Task2FileCreateRead.exe
 C:\Users\user\Documents\GitHub\CyberBionic\003Task2FileCreateRead\obj\Debug\003Task2FileCreateRead.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.exe.config
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task2FileCreateRead\obj\Debug\003Task2FileCreateRead.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task2FileCreateRead\obj\Debug\003Task2FileCreateRead.pdb
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.exe
+C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\003Task2FileCreateRead\bin\Debug\003Task2FileCreateRead.pdb

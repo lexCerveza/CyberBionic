@@ -8,7 +8,7 @@ namespace _003Task2FileCreateRead
     {
         static void Main()
         {
-            const string filePath = @"C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Task2FileCreateRead\the_shining.txt";
+            const string filePath = @"the_shining.txt";
             const string fileContents = "All work and no play makes Jack a dull boy";
             
             byte[] byteFileContents = new UTF8Encoding(true).GetBytes(fileContents);
