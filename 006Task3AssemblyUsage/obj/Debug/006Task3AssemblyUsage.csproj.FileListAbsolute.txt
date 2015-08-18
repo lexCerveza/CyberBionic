@@ -1,0 +1,5 @@
+C:\Users\user\Documents\GitHub\CyberBionic\006Task3AssemblyUsage\bin\Debug\006Task3AssemblyUsage.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\006Task3AssemblyUsage\bin\Debug\006Task3AssemblyUsage.exe
+C:\Users\user\Documents\GitHub\CyberBionic\006Task3AssemblyUsage\bin\Debug\006Task3AssemblyUsage.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\006Task3AssemblyUsage\obj\Debug\006Task3AssemblyUsage.exe
+C:\Users\user\Documents\GitHub\CyberBionic\006Task3AssemblyUsage\obj\Debug\006Task3AssemblyUsage.pdb

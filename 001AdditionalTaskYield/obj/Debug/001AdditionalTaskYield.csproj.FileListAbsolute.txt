@@ -7,3 +7,6 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\001Ad
 C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe.config
 C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.exe
 C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.exe
+C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\bin\Debug\001AdditionalTaskYield.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\001AdditionalTaskYield\obj\Debug\001AdditionalTaskYield.csprojResolveAssemblyReference.cache

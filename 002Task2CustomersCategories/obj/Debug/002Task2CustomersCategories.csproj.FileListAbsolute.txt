@@ -3,3 +3,8 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Ta
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Task2CustomersCategories\bin\Debug\002Task2CustomersCategories.pdb
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Task2CustomersCategories\obj\Debug\002Task2CustomersCategories.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Task2CustomersCategories\obj\Debug\002Task2CustomersCategories.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\002Task2CustomersCategories\bin\Debug\002Task2CustomersCategories.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\002Task2CustomersCategories\bin\Debug\002Task2CustomersCategories.exe
+C:\Users\user\Documents\GitHub\CyberBionic\002Task2CustomersCategories\bin\Debug\002Task2CustomersCategories.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\002Task2CustomersCategories\obj\Debug\002Task2CustomersCategories.exe
+C:\Users\user\Documents\GitHub\CyberBionic\002Task2CustomersCategories\obj\Debug\002Task2CustomersCategories.pdb

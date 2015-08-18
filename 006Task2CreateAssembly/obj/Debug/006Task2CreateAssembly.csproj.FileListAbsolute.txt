@@ -1,0 +1,6 @@
+C:\Users\user\Documents\GitHub\CyberBionic\006Task2CreateAssembly\bin\Debug\006Task2CreateAssembly.dll.config
+C:\Users\user\Documents\GitHub\CyberBionic\006Task2CreateAssembly\bin\Debug\006Task2CreateAssembly.dll
+C:\Users\user\Documents\GitHub\CyberBionic\006Task2CreateAssembly\bin\Debug\006Task2CreateAssembly.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\006Task2CreateAssembly\obj\Debug\006Task2CreateAssembly.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CyberBionic\006Task2CreateAssembly\obj\Debug\006Task2CreateAssembly.dll
+C:\Users\user\Documents\GitHub\CyberBionic\006Task2CreateAssembly\obj\Debug\006Task2CreateAssembly.pdb

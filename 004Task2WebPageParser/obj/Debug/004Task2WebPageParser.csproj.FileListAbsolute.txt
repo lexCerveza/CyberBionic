@@ -1,0 +1,6 @@
+C:\Users\user\Documents\GitHub\CyberBionic\004Task2WebPageParser\bin\Debug\004Task2WebPageParser.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\004Task2WebPageParser\bin\Debug\004Task2WebPageParser.exe
+C:\Users\user\Documents\GitHub\CyberBionic\004Task2WebPageParser\bin\Debug\004Task2WebPageParser.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\004Task2WebPageParser\obj\Debug\004Task2WebPageParser.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CyberBionic\004Task2WebPageParser\obj\Debug\004Task2WebPageParser.exe
+C:\Users\user\Documents\GitHub\CyberBionic\004Task2WebPageParser\obj\Debug\004Task2WebPageParser.pdb

@@ -4,3 +4,9 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003Ad
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003AdditionalTaskCreateDirectories\obj\Debug\003AdditionalTaskCreateDirectories.csprojResolveAssemblyReference.cache
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003AdditionalTaskCreateDirectories\obj\Debug\003AdditionalTaskCreateDirectories.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\003AdditionalTaskCreateDirectories\obj\Debug\003AdditionalTaskCreateDirectories.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\003AdditionalTaskCreateDirectories\bin\Debug\003AdditionalTaskCreateDirectories.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\003AdditionalTaskCreateDirectories\bin\Debug\003AdditionalTaskCreateDirectories.exe
+C:\Users\user\Documents\GitHub\CyberBionic\003AdditionalTaskCreateDirectories\bin\Debug\003AdditionalTaskCreateDirectories.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\003AdditionalTaskCreateDirectories\obj\Debug\003AdditionalTaskCreateDirectories.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CyberBionic\003AdditionalTaskCreateDirectories\obj\Debug\003AdditionalTaskCreateDirectories.exe
+C:\Users\user\Documents\GitHub\CyberBionic\003AdditionalTaskCreateDirectories\obj\Debug\003AdditionalTaskCreateDirectories.pdb

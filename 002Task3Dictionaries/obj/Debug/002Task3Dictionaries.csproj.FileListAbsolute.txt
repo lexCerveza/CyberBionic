@@ -3,3 +3,8 @@ C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Ta
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Task3Dictionaries\bin\Debug\002Task3Dictionaries.pdb
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Task3Dictionaries\obj\Debug\002Task3Dictionaries.exe
 C:\Users\user\Documents\Visual Studio 2013\Projects\001AdditionalTaskYield\002Task3Dictionaries\obj\Debug\002Task3Dictionaries.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\002Task3Dictionaries\bin\Debug\002Task3Dictionaries.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\002Task3Dictionaries\bin\Debug\002Task3Dictionaries.exe
+C:\Users\user\Documents\GitHub\CyberBionic\002Task3Dictionaries\bin\Debug\002Task3Dictionaries.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\002Task3Dictionaries\obj\Debug\002Task3Dictionaries.exe
+C:\Users\user\Documents\GitHub\CyberBionic\002Task3Dictionaries\obj\Debug\002Task3Dictionaries.pdb

@@ -1,0 +1,12 @@
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\bin\Debug\005Task4Admin.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.g.resources
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\_005Task4Admin.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\bin\Debug\005Task4Admin.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\bin\Debug\005Task4Admin.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Admin\obj\Debug\005Task4Admin.pdb
