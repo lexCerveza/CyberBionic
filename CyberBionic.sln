@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001AdditionalTaskYield", "001AdditionalTaskYield\001AdditionalTaskYield.csproj", "{B9DE74F2-F36D-4E86-BA5A-A1D6C468F544}"
 EndProject
@@ -50,6 +50,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006Task3AssemblyUsage", "006Task3AssemblyUsage\006Task3AssemblyUsage.csproj", "{87162BD5-9CD0-4442-801A-657C8883DE64}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006AdditionalTaskReflector", "006AdditionalTaskReflector\006AdditionalTaskReflector.csproj", "{98708F7E-DF6D-45C7-9E79-E815C7367CBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007AdditionalTaskCustomAttr", "007AdditionalTaskCustomAttr\007AdditionalTaskCustomAttr.csproj", "{0A80A116-0A1E-4ECE-892D-227BE175990D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007ObsoleteAttr", "007ObsoleteAttr\007ObsoleteAttr.csproj", "{B6B47E30-644F-4429-A854-F6C42AA50D70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{98708F7E-DF6D-45C7-9E79-E815C7367CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98708F7E-DF6D-45C7-9E79-E815C7367CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98708F7E-DF6D-45C7-9E79-E815C7367CBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A80A116-0A1E-4ECE-892D-227BE175990D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A80A116-0A1E-4ECE-892D-227BE175990D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A80A116-0A1E-4ECE-892D-227BE175990D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A80A116-0A1E-4ECE-892D-227BE175990D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6B47E30-644F-4429-A854-F6C42AA50D70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6B47E30-644F-4429-A854-F6C42AA50D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6B47E30-644F-4429-A854-F6C42AA50D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6B47E30-644F-4429-A854-F6C42AA50D70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

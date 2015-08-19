@@ -1,4 +1,4 @@
-﻿<Window x:Class="ClientSide.MainWindow"
+﻿<Window x:Class="_005Task4Client.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Client" Height="200" Width="525" Margin="10" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
