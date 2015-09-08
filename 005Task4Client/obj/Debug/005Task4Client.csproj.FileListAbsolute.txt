@@ -1,4 +1,6 @@
-C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Client.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\bin\Debug\005Task4Client.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\bin\Debug\005Task4Client.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\bin\Debug\005Task4Client.pdb
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\MainWindow.baml
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\MainWindow.g.cs
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\App.g.cs
@@ -6,3 +8,8 @@ C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Clie
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Client.g.resources
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\_005Task4Client.Properties.Resources.resources
 C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Client.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Client.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Client.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\bin\Debug\005Task4Admin.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\bin\Debug\005Task4Admin.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\obj\Debug\005Task4Client.csprojResolveAssemblyReference.cache

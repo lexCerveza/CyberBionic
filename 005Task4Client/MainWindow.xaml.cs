@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using _005Task4Admin;
 
 namespace _005Task4Client
 {
@@ -25,21 +26,20 @@ namespace _005Task4Client
         {
             InitializeComponent();
 
-            var buttonCount = int.Parse(ConfigurationManager.AppSettings["ButtonCount"]);
-            var text = ConfigurationManager.AppSettings["text"];
-
-            for (var i = 0; i < buttonCount; i++)
+            var configMap = new ExeConfigurationFileMap
             {
-                var button = new Button
+                ExeConfigFilename = "App.config"
+            };
+            var config = ConfigurationManager.OpenMappedExeConfiguration(configMap, ConfigurationUserLevel.None);
+            var animalItems = ((AnimalsSection) config.GetSection("Animals")).AnimalItems;
+
+            foreach (AnimalElement item in animalItems)
+            {
+                StackPanel.Children.Add(new Label
                 {
-                    Content = "Button"
-
-                };
-
-                WrapPanel.Children.Add(button);
+                    Content = String.Format("Name - {0} , Type -  {1}", item.Name, item.Type)
+                });
             }
-
-            TextBlock.Text = text;
         }
     }
 }

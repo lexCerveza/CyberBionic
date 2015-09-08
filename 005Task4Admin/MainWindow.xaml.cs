@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Configuration;
+using System.Reflection;
 using System.Windows;
 using System.Xml;
 
@@ -6,40 +8,55 @@ namespace _005Task4Admin
 {
     public partial class MainWindow : Window
     {
-        private const string ClientConfigPath = @"C:\Users\user\Documents\Visual Studio 2013\Projects\CyberBionic-master\005Task4Client\App.config";
+        private const string ClientConfigPath = @"C:\Users\user\Documents\GitHub\CyberBionic\005Task4Client\bin\Debug\App.config";
+        private Configuration configuration;
 
         public MainWindow()
         {
             InitializeComponent();
+
+            var configMap = new ExeConfigurationFileMap
+            {
+                ExeConfigFilename = "App.config"
+            };
+            configuration = ConfigurationManager.OpenMappedExeConfiguration(configMap, ConfigurationUserLevel.None);
         }
 
         private void ButtonBase_OnClick(object sender, RoutedEventArgs e)
         {
-            int buttonNumber;
-            if (!int.TryParse(ButtonNumberTextBox.Text, out buttonNumber))
+            var name = NameTextBox.Text;
+            var type = TypeTextBox.Text;
+
+            if (String.IsNullOrEmpty(name) || String.IsNullOrEmpty(type))
             {
-                MessageBox.Show("Invalid value of number of buttons");
+                MessageBox.Show("Enter valid values");
             }
             else
             {
-                var xmlConfig = new XmlDocument();
-                xmlConfig.Load(AppDomain.CurrentDomain.SetupInformation.ConfigurationFile);
+                var xmlDoc = new XmlDocument();
+                xmlDoc.Load(configuration.FilePath);
 
-                var buttonCountElementAttr = (XmlAttribute)xmlConfig.SelectSingleNode("//configuration/appSettings/add[1]/@value");
-                if (buttonCountElementAttr != null)
+                var nodeRegion = xmlDoc.CreateElement("Animal");
+                nodeRegion.SetAttribute("Name", name);
+                nodeRegion.SetAttribute("Type", type);
+
+                var selectSingleNode = xmlDoc.SelectSingleNode(@"//Animals");
+                if (selectSingleNode != null)
                 {
-                    buttonCountElementAttr.Value = buttonNumber.ToString();
+                    selectSingleNode.AppendChild(nodeRegion);
                 }
+                    
+                xmlDoc.Save(ClientConfigPath);
+                ConfigurationManager.RefreshSection("Animals");
 
-                var textElementAttr = (XmlAttribute)xmlConfig.SelectSingleNode("//configuration/appSettings/add[2]/@value");
-                if (textElementAttr != null)
-                {
-                    textElementAttr.Value = TextTextBox.Text;
-                }
-
-                xmlConfig.Save(ClientConfigPath);
-                Close();
+                NameTextBox.Text = String.Empty;
+                TypeTextBox.Text = String.Empty;
             }
+        }
+
+        private void MenuItemClose_OnClick(object sender, RoutedEventArgs e)
+        {
+            Close();
         }
     }
 }

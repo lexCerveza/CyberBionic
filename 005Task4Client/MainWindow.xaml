@@ -3,12 +3,6 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="Client" Height="200" Width="525" Margin="10" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
-        </Grid.ColumnDefinitions>
-
-        <WrapPanel Grid.Column="0" Name="WrapPanel"></WrapPanel>
-        <TextBlock Grid.Column="1" Name="TextBlock"></TextBlock>
+        <StackPanel Margin="10" Name="StackPanel"></StackPanel>
     </Grid>
 </Window>

@@ -7,10 +7,10 @@ namespace _004Task3Bark
     {
         static void Main()
         {
-            var filePath = @"input.txt";
+            const string filePath = @"input.txt";
             var fileContents = File.ReadAllText(filePath);
             
-            var barkContents = Regex.Replace(fileContents, @"with|on|until|in|under|behind|between", @"bark");
+            var barkContents = Regex.Replace(fileContents, "with|on|until|in|under|behind|between", "bark");
             File.WriteAllText(filePath, barkContents);
         }
     }

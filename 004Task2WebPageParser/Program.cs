@@ -20,9 +20,9 @@ namespace _004Task2WebPageParser
             stringPage += "093 2451654";
             stringPage += "11111 Ukraine,Kiev Shevchenko Str. H.13 A.23";
             
-            var linkRegex = new Regex(@"<a href='(?<link>\S+)'>");
-            var phoneRegex = new Regex(@"(?<phone>\(?\d{3}\)?\s?\d{3}\s?\d{2}\s?\d{2})");
-            var addressRegex = new Regex(@"(?<address>\d{5}\s*\S*,\S*\s*[\w|\s]*\.\s*H\.\d*\s*A\.\d*)");
+            var linkRegex = new Regex(@"<a href='(?<link>\S+)'>", RegexOptions.Compiled);
+            var phoneRegex = new Regex(@"(?<phone>\(?\d{3}\)?\s*\d{3}\s*\d{2}\s*\d{2})", RegexOptions.Compiled);
+            var addressRegex = new Regex(@"(?<address>\d{5}\s*\S*,\S*\s*.*\.\s*H\.\d*\s*A\.\d*)", RegexOptions.Compiled);
 
             var fileContents = new StringBuilder();
             fileContents.AppendLine("Web-pages");

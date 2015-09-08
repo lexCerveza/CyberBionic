@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Windows;
@@ -23,7 +22,7 @@ namespace _006AdditionalTaskReflector
                 Filter = "dll Files (*.dll)|*.dll"
             };
 
-            var filePath = String.Empty;
+            string filePath;
             if (dialog.ShowDialog() == true)
             {
                 filePath = dialog.FileName;
@@ -34,43 +33,75 @@ namespace _006AdditionalTaskReflector
             }
 
             _assembly = Assembly.LoadFrom(filePath);
+            StackPanel.Visibility = Visibility.Visible;
 
-            var info = new StringBuilder();
-            info.AppendFormat("Assembly : {0}.\n", filePath);
+            AttrCheckBox.Checked += AttrCheckBoxOnCheckedUnchecked;
+            AttrCheckBox.Unchecked += AttrCheckBoxOnCheckedUnchecked;
+
+            PrFieldsCheckBox.Checked += AttrCheckBoxOnCheckedUnchecked;
+            PrFieldsCheckBox.Unchecked += AttrCheckBoxOnCheckedUnchecked;
+
+            PbFieldsCheckBox.Checked += AttrCheckBoxOnCheckedUnchecked;
+            PbFieldsCheckBox.Unchecked += AttrCheckBoxOnCheckedUnchecked;
+
+            PropCheckBox.Checked += AttrCheckBoxOnCheckedUnchecked;
+            PropCheckBox.Unchecked += AttrCheckBoxOnCheckedUnchecked;
+
+            MethodsCheckBox.Checked += AttrCheckBoxOnCheckedUnchecked;
+            MethodsCheckBox.Unchecked += AttrCheckBoxOnCheckedUnchecked;
+        }
+
+        private void AttrCheckBoxOnCheckedUnchecked(object sender, RoutedEventArgs routedEventArgs)
+        {
+            var assemblyInfo = new StringBuilder();
 
             foreach (var type in _assembly.GetTypes())
             {
                 if (type.IsEnum)
                 {
-                    info.AppendFormat("Enum : {0}\n", type.Name);
+                    assemblyInfo.AppendFormat("Enum : {0}\n", type.Name);
                     foreach (var enumValue in Enum.GetValues(type))
                     {
-                        info.AppendLine(enumValue.ToString());
+                        assemblyInfo.AppendLine(enumValue.ToString());
                     }
                 }
 
                 if (type.IsClass)
                 {
-                    info.AppendFormat("Class : {0}\n", type.Name);
-                    info.AppendLine("Methods : ");
-                    foreach (var methodInfo in type.GetMethods())
+                    if (AttrCheckBox.IsChecked == true)
                     {
-                        var returnType = methodInfo.GetBaseDefinition().ReturnType.Name;
-                        info.AppendFormat("public {0} {1} (", returnType, methodInfo.GetBaseDefinition().Name);
-                        foreach (var param in methodInfo.GetParameters())
-                        {
-                            info.AppendFormat("{0} {1}", param.ParameterType.Name, param.Name);
-                            if (param != methodInfo.GetParameters().Last())
-                            {
-                                info.Append(", ");
-                            }
-                        }
-                        info.AppendFormat(");\n");
+                        assemblyInfo.Append(Utils.GetAttributes(type));
+                    }
+
+                    assemblyInfo.AppendLine(Utils.GetClass(type));
+                    
+                    if (PrFieldsCheckBox.IsChecked == true)
+                    {
+                        assemblyInfo.AppendLine("Private Fields : ");
+                        assemblyInfo.Append(Utils.GetPrivateFields(type));
+                    }
+
+                    if (PbFieldsCheckBox.IsChecked == true)
+                    {
+                        assemblyInfo.AppendLine("Public Fields : ");
+                        assemblyInfo.Append(Utils.GetPublicFields(type));
+                    }
+
+                    if (PropCheckBox.IsChecked == true)
+                    {
+                        assemblyInfo.AppendLine("Properties : ");
+                        assemblyInfo.Append(Utils.GetProperties(type));
+                    }
+
+                    if (MethodsCheckBox.IsChecked == true)
+                    {
+                        assemblyInfo.AppendLine("Methods : ");
+                        assemblyInfo.Append(Utils.GetMethods(type));
                     }
                 }
             }
 
-            TextBox.Text = info.ToString();
+            TextBlock.Text = assemblyInfo.ToString();
         }
 
         private void MenuItemClose_OnClick(object sender, RoutedEventArgs e)

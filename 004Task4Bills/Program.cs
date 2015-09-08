@@ -22,6 +22,12 @@ namespace _004Task4Bills
                 var day = m.Groups["day"].Value;
                 var month = m.Groups["month"].Value;
                 var year = m.Groups["year"].Value;
+
+                //int a;
+                //if (int.TryParse(year, out a))
+                //{
+                    
+                //}
                 var date = new DateTime(int.Parse(year), int.Parse(month), int.Parse(day));
 
                 var currentLocaleTime = date.ToString(CultureInfo.CurrentCulture);

@@ -1,1 +1,6 @@
 C:\Users\user\Documents\GitHub\CyberBionic\005AdditionalTaskTelephoneBook\obj\Debug\005AdditionalTaskTelephoneBook.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CyberBionic\005AdditionalTaskTelephoneBook\bin\Debug\005AdditionalTaskTelephoneBook.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\005AdditionalTaskTelephoneBook\bin\Debug\005AdditionalTaskTelephoneBook.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005AdditionalTaskTelephoneBook\bin\Debug\005AdditionalTaskTelephoneBook.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\005AdditionalTaskTelephoneBook\obj\Debug\005AdditionalTaskTelephoneBook.exe
+C:\Users\user\Documents\GitHub\CyberBionic\005AdditionalTaskTelephoneBook\obj\Debug\005AdditionalTaskTelephoneBook.pdb

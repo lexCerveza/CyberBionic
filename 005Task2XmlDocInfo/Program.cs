@@ -7,7 +7,7 @@ namespace _005Task2XmlDocInfo
     {
         static void Main()
         {
-            var xmlPath = @"C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\005Task2XmlDocInfo\TelephoneBook.xml";
+            var xmlPath = "TelephoneBook.xml";
             var xmlDocument = new XmlDocument();
             xmlDocument.Load(xmlPath);
 

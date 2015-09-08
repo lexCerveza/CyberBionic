@@ -7,7 +7,7 @@ namespace _005Task3TelephonesOnly
     {
         static void Main()
         {
-            var xmlPath = @"C:\Users\Alex\Documents\GitHubVisualStudio\CyberBionic\005Task2XmlDocInfo\TelephoneBook.xml";
+            var xmlPath = @"TelephoneBook.xml";
             var reader = new XmlTextReader(xmlPath);
 
             while (reader.Read())

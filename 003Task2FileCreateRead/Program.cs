@@ -13,15 +13,12 @@ namespace _003Task2FileCreateRead
             
             byte[] byteFileContents = new UTF8Encoding(true).GetBytes(fileContents);
 
-            if (!File.Exists(filePath))
+            using (var fileCreateWriteStream = new FileStream(filePath, FileMode.Create))
             {
-                var fileCreateWriteStream = File.Create(filePath);
                 if (fileCreateWriteStream.CanWrite)
                 {
                     fileCreateWriteStream.Write(byteFileContents, 0, byteFileContents.Length);
                 }
-
-                fileCreateWriteStream.Close();
             }
 
             Console.WriteLine(Encoding.UTF8.GetString(File.ReadAllBytes(filePath)));

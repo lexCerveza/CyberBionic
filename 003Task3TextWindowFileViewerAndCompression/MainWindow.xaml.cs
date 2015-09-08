@@ -15,7 +15,8 @@ namespace _003Task3TextWindowFileViewerAndCompression
         public MainWindow()
         {
             _filePathList = new List<string>();
-            GetFile(@"C:\Users\" + Environment.UserName + @"\Documents", @"*the_shining.txt");
+            var dir = Path.Combine(@"C:\Users\", Environment.UserName,  @"Documents");
+            GetFile(dir, "the_shining.txt");
             InitializeComponent();
         }
 

@@ -8,7 +8,7 @@ namespace _004AdditionalTaskLoginPassword
         static void Main()
         {
             const string loginPattern = @"[a-z|A-Z]+";
-            const string passwordPattern = @"\w+";
+            const string passwordPattern = @"\w*";
 
             var loginRegex = new Regex(loginPattern);
             var passwordRegex = new Regex(passwordPattern);
