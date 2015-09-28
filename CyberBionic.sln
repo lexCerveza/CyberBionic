@@ -73,6 +73,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012Task1AutoResetEvent", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012Task2Mutex", "012Task2Mutex\012Task2Mutex.csproj", "{73988A41-3DBD-4ECD-9CF2-47F86C8309F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013AsyncTaskCallback", "013AsyncTaskCallback\013AsyncTaskCallback.csproj", "{9715AB4F-E283-4CF7-8CCA-D8A04EA8BAFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "013AdditionalTask3Buttons", "013AdditionalTask3Buttons\013AdditionalTask3Buttons.csproj", "{5F2B7D66-37CA-4B4D-ABE7-E8FB6CD0BC51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -219,6 +223,14 @@ Global
 		{73988A41-3DBD-4ECD-9CF2-47F86C8309F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73988A41-3DBD-4ECD-9CF2-47F86C8309F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73988A41-3DBD-4ECD-9CF2-47F86C8309F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9715AB4F-E283-4CF7-8CCA-D8A04EA8BAFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9715AB4F-E283-4CF7-8CCA-D8A04EA8BAFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9715AB4F-E283-4CF7-8CCA-D8A04EA8BAFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9715AB4F-E283-4CF7-8CCA-D8A04EA8BAFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2B7D66-37CA-4B4D-ABE7-E8FB6CD0BC51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2B7D66-37CA-4B4D-ABE7-E8FB6CD0BC51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2B7D66-37CA-4B4D-ABE7-E8FB6CD0BC51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2B7D66-37CA-4B4D-ABE7-E8FB6CD0BC51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

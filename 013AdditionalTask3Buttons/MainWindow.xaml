@@ -1,0 +1,20 @@
+﻿<Window x:Class="_013AdditionalTask3Buttons.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_013AdditionalTask3Buttons"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="100" Width="250" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        
+        <Button Grid.Column="0" Click="CompleteOnClick">IsComplete</Button>
+        <Button Grid.Column="1" Click="EndOnClick">End</Button>
+        <Button Grid.Column="2" Click="CallBackOnClick">Callback</Button>
+    </Grid>
+</Window>
