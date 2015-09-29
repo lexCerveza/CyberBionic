@@ -42,11 +42,13 @@ namespace _013AdditionalTask3Buttons
                                        (asyncResult) =>
                                        {
                                            var asyncState = asyncResult.AsyncState as Func<int, int, int>;
-                                           if (asyncState != null)
+                                           if (asyncState == null)
                                            {
-                                               var result = asyncState.EndInvoke(asyncResult);
-                                               MessageBox.Show("Result - " + result);
+                                               return;
                                            }
+
+                                           var result = asyncState.EndInvoke(asyncResult);
+                                           MessageBox.Show("Result - " + result);
                                        }
                                        , _addDelegate);
         }
