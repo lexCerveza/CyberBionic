@@ -16,7 +16,7 @@ namespace _013AdditionalTask3Buttons
             _addDelegate = ((x, y) => x + y);
         }
 
-
+ 
         private void CompleteOnClick(object sender, RoutedEventArgs e)
         {
             var asyncResult = _addDelegate.BeginInvoke(X, Y, null, _addDelegate);
