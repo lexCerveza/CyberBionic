@@ -1,0 +1,13 @@
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\bin\Debug\017AdditionalTaskLoadUntrustedAssemblies.exe.config
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\bin\Debug\017AdditionalTaskLoadUntrustedAssemblies.exe
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\bin\Debug\017AdditionalTaskLoadUntrustedAssemblies.pdb
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\017AdditionalTaskLoadUntrustedAssemblies.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\MainWindow.baml
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\MainWindow.g.cs
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\App.g.cs
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\017AdditionalTaskLoadUntrustedAssemblies_MarkupCompile.cache
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\017AdditionalTaskLoadUntrustedAssemblies.g.resources
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\_017AdditionalTaskLoadUntrustedAssemblies.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\017AdditionalTaskLoadUntrustedAssemblies.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\017AdditionalTaskLoadUntrustedAssemblies.exe
+C:\Users\user\Documents\GitHub\CyberBionic\017AdditionalTaskLoadUntrustedAssemblies\obj\Debug\017AdditionalTaskLoadUntrustedAssemblies.pdb
