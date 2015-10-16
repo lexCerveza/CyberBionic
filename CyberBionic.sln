@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009Task2ResourceMonitoring"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017AdditionalTaskLoadUntrustedAssemblies", "017AdditionalTaskLoadUntrustedAssemblies\017AdditionalTaskLoadUntrustedAssemblies.csproj", "{FBC43453-D4F0-4D0E-BDB5-FB494A578D53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "017Task2ServiceInstall", "017Task2ServiceInstall\017Task2ServiceInstall.csproj", "{787472DC-78FC-4DEC-B9A9-8B5404A196F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{FBC43453-D4F0-4D0E-BDB5-FB494A578D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FBC43453-D4F0-4D0E-BDB5-FB494A578D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FBC43453-D4F0-4D0E-BDB5-FB494A578D53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{787472DC-78FC-4DEC-B9A9-8B5404A196F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{787472DC-78FC-4DEC-B9A9-8B5404A196F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{787472DC-78FC-4DEC-B9A9-8B5404A196F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{787472DC-78FC-4DEC-B9A9-8B5404A196F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
